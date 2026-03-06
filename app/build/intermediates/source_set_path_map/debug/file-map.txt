@@ -1,0 +1,55 @@
+com.healthmonitor.app-lifecycle-runtime-release-0 C:\Users\mkfun\.gradle\caches\transforms-4\0561aef1878b06804f1d54012c566381\transformed\lifecycle-runtime-release\res
+com.healthmonitor.app-startup-runtime-1.1.1-1 C:\Users\mkfun\.gradle\caches\transforms-4\0664cc8d68a06054c5f62f6eb9d74bdf\transformed\startup-runtime-1.1.1\res
+com.healthmonitor.app-annotation-experimental-1.4.0-2 C:\Users\mkfun\.gradle\caches\transforms-4\17eae82255337c6a107628ba76d7c3af\transformed\annotation-experimental-1.4.0\res
+com.healthmonitor.app-savedstate-1.2.1-3 C:\Users\mkfun\.gradle\caches\transforms-4\2f13989740b8085d296f1e4d59de5ef4\transformed\savedstate-1.2.1\res
+com.healthmonitor.app-core-1.13.1-4 C:\Users\mkfun\.gradle\caches\transforms-4\2f874fdd6ce69481b404a6d28f47cd59\transformed\core-1.13.1\res
+com.healthmonitor.app-foundation-layout-release-5 C:\Users\mkfun\.gradle\caches\transforms-4\30cac93fce707dcea979870b1f29bec8\transformed\foundation-layout-release\res
+com.healthmonitor.app-lifecycle-viewmodel-compose-release-6 C:\Users\mkfun\.gradle\caches\transforms-4\30db1975a6ab0edc00bd34f3396b666f\transformed\lifecycle-viewmodel-compose-release\res
+com.healthmonitor.app-ui-tooling-release-7 C:\Users\mkfun\.gradle\caches\transforms-4\34a81b11d1279c277829d18a0b9d5379\transformed\ui-tooling-release\res
+com.healthmonitor.app-savedstate-ktx-1.2.1-8 C:\Users\mkfun\.gradle\caches\transforms-4\3947f0f6dca43b5abcf45507d31dad21\transformed\savedstate-ktx-1.2.1\res
+com.healthmonitor.app-activity-compose-1.8.2-9 C:\Users\mkfun\.gradle\caches\transforms-4\3e0d0d310afcd1c47f91c65d61cd7009\transformed\activity-compose-1.8.2\res
+com.healthmonitor.app-ui-geometry-release-10 C:\Users\mkfun\.gradle\caches\transforms-4\3e33d684ba6d7908abc33644b11045d6\transformed\ui-geometry-release\res
+com.healthmonitor.app-material-icons-core-release-11 C:\Users\mkfun\.gradle\caches\transforms-4\446bd1775cd560cd5b699842a33783cc\transformed\material-icons-core-release\res
+com.healthmonitor.app-lifecycle-viewmodel-savedstate-2.8.3-12 C:\Users\mkfun\.gradle\caches\transforms-4\453e137e3ca94dea36fbf90aa198305a\transformed\lifecycle-viewmodel-savedstate-2.8.3\res
+com.healthmonitor.app-lifecycle-livedata-core-2.8.3-13 C:\Users\mkfun\.gradle\caches\transforms-4\469cd66355de90c7a1d747ba5085e98d\transformed\lifecycle-livedata-core-2.8.3\res
+com.healthmonitor.app-graphics-path-1.0.1-14 C:\Users\mkfun\.gradle\caches\transforms-4\4d000bdf7142aeea6e2891da8373df9c\transformed\graphics-path-1.0.1\res
+com.healthmonitor.app-ui-tooling-data-release-15 C:\Users\mkfun\.gradle\caches\transforms-4\50ce781359e7282a535ff2bc3c1d5355\transformed\ui-tooling-data-release\res
+com.healthmonitor.app-core-ktx-1.13.1-16 C:\Users\mkfun\.gradle\caches\transforms-4\57dc7f3e6e00acdfbe8a5a407d6e2cbf\transformed\core-ktx-1.13.1\res
+com.healthmonitor.app-activity-ktx-1.8.2-17 C:\Users\mkfun\.gradle\caches\transforms-4\5e17feb1ca0563a3718997f25929646f\transformed\activity-ktx-1.8.2\res
+com.healthmonitor.app-material-icons-extended-release-18 C:\Users\mkfun\.gradle\caches\transforms-4\60246e71dc275f058fa552de10136051\transformed\material-icons-extended-release\res
+com.healthmonitor.app-navigation-common-ktx-2.7.7-19 C:\Users\mkfun\.gradle\caches\transforms-4\6584a640ed7eaa05664ee3fb0af06258\transformed\navigation-common-ktx-2.7.7\res
+com.healthmonitor.app-navigation-compose-2.7.7-20 C:\Users\mkfun\.gradle\caches\transforms-4\67f78bf1d1c24959743491b503edaaff\transformed\navigation-compose-2.7.7\res
+com.healthmonitor.app-material-release-21 C:\Users\mkfun\.gradle\caches\transforms-4\76b19962847a0babdc10b38407eeb0dd\transformed\material-release\res
+com.healthmonitor.app-lifecycle-runtime-ktx-release-22 C:\Users\mkfun\.gradle\caches\transforms-4\76c7a6c68e70d7c1dc32eb6e68c0e698\transformed\lifecycle-runtime-ktx-release\res
+com.healthmonitor.app-ui-text-release-23 C:\Users\mkfun\.gradle\caches\transforms-4\7b5cf7788fe2b97f9dfa524939f8c87c\transformed\ui-text-release\res
+com.healthmonitor.app-profileinstaller-1.3.1-24 C:\Users\mkfun\.gradle\caches\transforms-4\7c247f36020f5ee6553282177bfa6962\transformed\profileinstaller-1.3.1\res
+com.healthmonitor.app-ui-util-release-25 C:\Users\mkfun\.gradle\caches\transforms-4\817bb67e74dde1b34557689969fd2e66\transformed\ui-util-release\res
+com.healthmonitor.app-core-runtime-2.2.0-26 C:\Users\mkfun\.gradle\caches\transforms-4\85e0f467ca0e7f6aaaa98193288d70be\transformed\core-runtime-2.2.0\res
+com.healthmonitor.app-animation-core-release-27 C:\Users\mkfun\.gradle\caches\transforms-4\873eb43feb8fd30c1c41a7a66b170d43\transformed\animation-core-release\res
+com.healthmonitor.app-navigation-common-2.7.7-28 C:\Users\mkfun\.gradle\caches\transforms-4\8c461abc980e594d559e1c7bfffce374\transformed\navigation-common-2.7.7\res
+com.healthmonitor.app-material3-release-29 C:\Users\mkfun\.gradle\caches\transforms-4\8df8c4b6972d8620e5b0a9416b2f773c\transformed\material3-release\res
+com.healthmonitor.app-runtime-release-30 C:\Users\mkfun\.gradle\caches\transforms-4\90d8c6efa4be5682725d40ba7a750d02\transformed\runtime-release\res
+com.healthmonitor.app-ui-unit-release-31 C:\Users\mkfun\.gradle\caches\transforms-4\9850d4066dabb0c3dd48a56f92272521\transformed\ui-unit-release\res
+com.healthmonitor.app-ui-test-manifest-1.7.0-32 C:\Users\mkfun\.gradle\caches\transforms-4\a0400634fd903a19f927d7f66ba5b09d\transformed\ui-test-manifest-1.7.0\res
+com.healthmonitor.app-ui-tooling-preview-release-33 C:\Users\mkfun\.gradle\caches\transforms-4\a31a59e4e0069c7cae083febfa24e891\transformed\ui-tooling-preview-release\res
+com.healthmonitor.app-emoji2-1.3.0-34 C:\Users\mkfun\.gradle\caches\transforms-4\a6cf86583c5b0ff31afb610b2c47b555\transformed\emoji2-1.3.0\res
+com.healthmonitor.app-runtime-saveable-release-35 C:\Users\mkfun\.gradle\caches\transforms-4\af9ec5a3d9823146d465c5c74861351d\transformed\runtime-saveable-release\res
+com.healthmonitor.app-animation-release-36 C:\Users\mkfun\.gradle\caches\transforms-4\b52b43dbe14726648c777f12fad5b3b8\transformed\animation-release\res
+com.healthmonitor.app-lifecycle-viewmodel-release-37 C:\Users\mkfun\.gradle\caches\transforms-4\c83d7837fe3d2fcdd0f99e7a42336bfc\transformed\lifecycle-viewmodel-release\res
+com.healthmonitor.app-ui-release-38 C:\Users\mkfun\.gradle\caches\transforms-4\c8fb3aa87ef7471cfd8924d194f8d2b8\transformed\ui-release\res
+com.healthmonitor.app-customview-poolingcontainer-1.0.0-39 C:\Users\mkfun\.gradle\caches\transforms-4\cb5c5c9e74e9aa0d00df536c1a87a94d\transformed\customview-poolingcontainer-1.0.0\res
+com.healthmonitor.app-activity-1.8.2-40 C:\Users\mkfun\.gradle\caches\transforms-4\ccae34b2cd037e8e56504d87d164410b\transformed\activity-1.8.2\res
+com.healthmonitor.app-ui-graphics-release-41 C:\Users\mkfun\.gradle\caches\transforms-4\d1b5f03878a1411eaa31fdc8bf232d3b\transformed\ui-graphics-release\res
+com.healthmonitor.app-lifecycle-runtime-compose-release-42 C:\Users\mkfun\.gradle\caches\transforms-4\d5ee7bfa2b6c3bb47db06b2df5a715ea\transformed\lifecycle-runtime-compose-release\res
+com.healthmonitor.app-lifecycle-process-2.8.3-43 C:\Users\mkfun\.gradle\caches\transforms-4\d6eda14a3119b7e242aacf04c7144758\transformed\lifecycle-process-2.8.3\res
+com.healthmonitor.app-foundation-release-44 C:\Users\mkfun\.gradle\caches\transforms-4\d721170fce46d2b08ccac8278009d3b3\transformed\foundation-release\res
+com.healthmonitor.app-material-ripple-release-45 C:\Users\mkfun\.gradle\caches\transforms-4\dcaf232104bd8fdc5d3b0772e0711325\transformed\material-ripple-release\res
+com.healthmonitor.app-navigation-runtime-2.7.7-46 C:\Users\mkfun\.gradle\caches\transforms-4\dcbc0c92d26da2c93f45128b056da888\transformed\navigation-runtime-2.7.7\res
+com.healthmonitor.app-navigation-runtime-ktx-2.7.7-47 C:\Users\mkfun\.gradle\caches\transforms-4\eb94dec0a7df8c9cf030e4e645230122\transformed\navigation-runtime-ktx-2.7.7\res
+com.healthmonitor.app-lifecycle-viewmodel-ktx-2.8.3-48 C:\Users\mkfun\.gradle\caches\transforms-4\fa4ecb3d8d1f23b17e9fa186bcd88fcd\transformed\lifecycle-viewmodel-ktx-2.8.3\res
+com.healthmonitor.app-resValues-49 I:\mohit\HEALTH MONITORING APP\app\build\generated\res\resValues\debug
+com.healthmonitor.app-packageDebugResources-50 I:\mohit\HEALTH MONITORING APP\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.healthmonitor.app-packageDebugResources-51 I:\mohit\HEALTH MONITORING APP\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.healthmonitor.app-merged_res-52 I:\mohit\HEALTH MONITORING APP\app\build\intermediates\merged_res\debug
+com.healthmonitor.app-debug-53 I:\mohit\HEALTH MONITORING APP\app\src\debug\res
+com.healthmonitor.app-main-54 I:\mohit\HEALTH MONITORING APP\app\src\main\res
